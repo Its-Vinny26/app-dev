@@ -1,4 +1,5 @@
-# app-dev
+# Favorite Series
+
 ## My First repository
 
 ### My Favorite Series 
